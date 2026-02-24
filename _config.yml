@@ -2,9 +2,9 @@
 # https://telar.org
 
 # Site Settings
-title: FlorenteneCodex
-description: "Unit 2 Project of Group 7 on cuisines represented in florentene codex"
-baseurl: "/cuisinefromflorentenecodex"
+title: Cuisine found in the Florentine Codex
+description: "Unit 2 Project of Group 7 on cuisines represented in the Florentine Codex."
+baseurl: "/cuisinefromflorentinecodex"
 url: "https://SruBee24.github.io"
 author: "group 7"
 email: ""
