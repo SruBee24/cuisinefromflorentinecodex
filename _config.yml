@@ -2,13 +2,13 @@
 # https://telar.org
 
 # Site Settings
-title: Cuisine found in the Florentine Codex
-description: "Unit 2 Project of Group 7 on cuisines represented in the Florentine Codex."
+title: Significance of Food Found in the Florentine Codex
+description: "Unit 2 Project of Group 7 on the significance of food for indigenous and Spanish cultures represented in the Florentine Codex."
 baseurl: "/cuisinefromflorentinecodex"
 url: "https://srubee24.github.io" 
-author: "group 7"
+author: "Group 7: Brigid O’Connor, Reagan Warner, Srushti Bhakta, Erick Tuya"
 email: ""
-telar_theme: "paisajes" # Options: paisajes, neogranadina, santa-barbara, austin, or custom
+telar_theme: "austin" # Options: paisajes, neogranadina, santa-barbara, austin, or custom
 logo: "" # Path to logo image (optional, max 80px tall, 200-300px wide recommended)
 telar_language: "en" # Options: "en" (English), "es" (Español)
 
