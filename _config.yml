@@ -8,7 +8,7 @@ baseurl: "/cuisinefromflorentinecodex"
 url: "https://srubee24.github.io" 
 author: "Group 7: Brigid O’Connor, Reagan Warner, Srushti Bhakta, Erick Tuya"
 email: ""
-telar_theme: "austin" # Options: paisajes, neogranadina, santa-barbara, austin, or custom
+telar_theme: "custom" # Options: paisajes, neogranadina, santa-barbara, austin, or custom
 logo: "" # Path to logo image (optional, max 80px tall, 200-300px wide recommended)
 telar_language: "en" # Options: "en" (English), "es" (Español)
 
